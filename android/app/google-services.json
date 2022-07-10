@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376931132769",
+    "project_id": "mytrendz-d8237",
+    "storage_bucket": "mytrendz-d8237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376931132769:android:ebc1fd9424bca46fbb1120",
+        "android_client_info": {
+          "package_name": "com.example.flutter_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376931132769-2cqem9b8pg9gja8divfchv532kjigmu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzPV3rjgv4Mwe3mSA1o07kdVvl8Q3FL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376931132769-2cqem9b8pg9gja8divfchv532kjigmu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
