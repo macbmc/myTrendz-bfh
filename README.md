@@ -30,7 +30,7 @@ The project shows the product category and also provided the details of product.
 BFH/rec38sqthhLmjmvGk/2021
 ## Link to product walkthrough
 
-[Vedio Link](https://drive.google.com/file/d/1KK05K0xLj3dQqS7JYxvqW6m6YjHVITEM/view)
+[Video Link](https://drive.google.com/file/d/1KK05K0xLj3dQqS7JYxvqW6m6YjHVITEM/view)
 
 ## How it Works ?
 🔸[apk link on Dropbox](https://www.dropbox.com/s/07mh4r3sgheieu2/app.apk?dl=0)
